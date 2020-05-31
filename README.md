@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. More contribution. Fork repository and issue pull request for review.
 
 ## Deployment
 I don't know. Descrpition of deployment.
