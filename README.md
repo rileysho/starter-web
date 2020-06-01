@@ -18,4 +18,4 @@ Sample website with plenty of files for demos. More contribution. Fork repositor
 I don't know. Descrpition of deployment.
 
 ### Copyright
-2014 Git.Training.
+2014 Git.Training. All rights reserved.
